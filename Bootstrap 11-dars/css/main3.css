@@ -1,0 +1,12 @@
+.loader2:focus{
+    animation-name: wrap;
+    animation-duration: 0.7s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 0.8;
+}
+@keyframes wrap {
+    0%{
+        transform: rotate(360deg);
+    }
+
+}
